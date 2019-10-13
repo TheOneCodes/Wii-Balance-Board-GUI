@@ -11,3 +11,16 @@ Z:\WiiBalance Board\WiiBalanceWalker_v0.4\WiiBalanceWalker\bin\Debug\WiiBalanceB
 Z:\WiiBalance Board\WiiBalanceWalker_v0.4\WiiBalanceWalker\obj\x86\Debug\WiiBalanceBoardGUI.exe
 Z:\WiiBalance Board\WiiBalanceWalker_v0.4\WiiBalanceWalker\obj\x86\Debug\WiiBalanceBoardGUI.pdb
 Z:\WiiBalance Board\WiiBalanceWalker_v0.4\WiiBalanceWalker\obj\x86\Debug\WiiBalanceWalker.License.resources
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\bin\Debug\WiiBalanceBoardGUI.exe.config
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\bin\Debug\WiiBalanceBoardGUI.exe
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\bin\Debug\WiiBalanceBoardGUI.pdb
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceWalker.csprojAssemblyReference.cache
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceWalker.AboutBox.resources
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceWalker.FormBluetooth.resources
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceWalker.FormMain.resources
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceWalker.License.resources
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceWalker.Properties.Resources.resources
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceWalker.csproj.GenerateResource.cache
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceWalker.csproj.Fody.CopyLocal.cache
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceBoardGUI.exe
+Z:\WiiBalance Board\WiiBalanceWalker_v0.4\Wii-Balance-Board-GUI\WiiBalanceWalker\obj\x86\Debug\WiiBalanceBoardGUI.pdb
