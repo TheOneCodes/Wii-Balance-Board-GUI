@@ -28,6 +28,9 @@ Download Wii Balance Board GUI from the [releases](https://github.com/TheOneTrue
 ![WBBGUIpair](img/WBBGUIpair.jpg "WBBGUIpair")
 
 3. Hold down the ***Sync*** button on your *Wii Fit Balance Board* located in the battery bay and *try not to let go*
+
+![Sync](img/sync.jpg "Sync button")
+
   * The window will briefly stop responding, this is normal
 
 4. If sucessful, click ***Connect Paired Board*** while *still holding the Sync button* 
