@@ -7,7 +7,7 @@ Download Wii Balance Board GUI from the [releases](https://github.com/TheOneTrue
 
 ## Prerequisites
 
-* A 32 bit x86 or compatible computer running *Microsoft Windows 7* or later
+* A 32 bit x86 or compatible computer running *Microsoft Windows 7* or [later](https://www.microsoft.com/en-ca/software-download/windows10)
 * Microsoft *.NET Framework* 4.5 or [later](https://www.microsoft.com/en-us/download/confirmation.aspx?id=55170)
 * A working compatible *Bluetooth Transciever*
 * A Nintendo *Wii Fit Balance Board*
