@@ -7,9 +7,9 @@ Download Wii Balance Board GUI from the [releases](https://github.com/TheOneTrue
 
 ## Prerequisites
 
-* A 32 bit x86 or compatible computer running *Microsoft Windows 7* or later
+* A 32 bit x86 or compatible computer running *Microsoft Windows 7* or [later](https://www.microsoft.com/en-ca/software-download/windows10)
 * Microsoft *.NET Framework* 4.5 or [later](https://www.microsoft.com/en-us/download/confirmation.aspx?id=55170)
-* A working compatible *Bluetooth Transciever*
+* A working compatible *Bluetooth Transciever* 
 * A Nintendo *Wii Fit Balance Board*
 
 ## Setup
@@ -35,6 +35,9 @@ Download Wii Balance Board GUI from the [releases](https://github.com/TheOneTrue
 ![error](img/error.jpg "error")
 
   * If unsucessfull, ***do not click pair again***. Re-start the program and go to step 1, failiure to do so may result in a *BSOD*
+  
+![Blue Screen Of Death](img/bsod.jpg "BSOD")
+  
   * If it continues to be unsucessful, navigate to ***Control Panel\All Control Panel Items\Devices and Printers*** and select ***Add a device***, then pair from there
   
 5. *WBBGUI* will now hide in the system tray (it may be hidden under the ^ button)
