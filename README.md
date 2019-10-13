@@ -31,6 +31,9 @@ Download Wii Balance Board GUI from the [releases](https://github.com/TheOneTrue
   * The window will briefly stop responding, this is normal
 
 4. If sucessful, click ***Connect Paired Board*** while *still holding the Sync button* 
+
+![error](img/error.jpg "error")
+
   * If unsucessfull, ***do not click pair again***. Re-start the program and go to step 1, failiure to do so may result in a *BSOD*
   * If it continues to be unsucessful, navigate to ***Control Panel\All Control Panel Items\Devices and Printers*** and select ***Add a device***, then pair from there
   
