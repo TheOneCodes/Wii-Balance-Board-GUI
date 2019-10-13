@@ -21,35 +21,35 @@ Download Wii Balance Board GUI from the [releases](https://github.com/TheOneTrue
 
 1. Click ***Pair Device(s)***
 
-![WBBGUI](img/WBBGUI.jpg "WBBGUI")
+<img src="img/WBBGUI.jpg" alt="WBBGUI" width="400"/>
 
 2. Click ***Pair***
 
-![WBBGUIpair](img/WBBGUIpair.jpg "WBBGUIpair")
+<img src="img/WBBGUIpair.jpg" alt="WBBGUIpair" width="400"/>
 
 3. Hold down the ***Sync*** button on your *Wii Fit Balance Board* located in the battery bay and *try not to let go*
 
-<img src="img/sync.jpg" alt="sync" width="250"/>
+<img src="img/sync.jpg" alt="sync" width="400"/>
 
   * The window will briefly stop responding, this is normal
 
 4. If sucessful, click ***Connect Paired Board*** while *still holding the Sync button* 
 
-![error](img/error.jpg "error")
+<img src="img/error.jpg" alt="error" width="400"/>
 
   * If unsucessfull, ***do not click pair again***. Re-start the program and go to step 1, failiure to do so may result in a *BSOD*
-  
-![Blue Screen Of Death](img/bsod.jpg "BSOD")
+
+<img src="img/bsod.jpg" alt="Blue Screen Of Death" width="400"/>
   
   * If it continues to be unsucessful, navigate to ***Control Panel\All Control Panel Items\Devices and Printers*** and select ***Add a device***, then pair from there
   
 5. *WBBGUI* will now hide in the system tray (it may be hidden under the ^ button)
 
-![System Tray](img/system%20tray.jpg "Syetem Tray")
+<img src="img/system%20tray.jpg" alt="System Tray" width="400"/>
 
 6. Right click the icon in the system tray and click ***Show***
 
-![WBBGUIdebug](img/debug.jpg "WBBGUIdebug")
+<img src="img/debug.jpg" alt="WBBGUIdebug" width="400"/>
 
 *  Here you can see the debug information and keymappings
 
