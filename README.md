@@ -29,7 +29,7 @@ Download Wii Balance Board GUI from the [releases](https://github.com/TheOneTrue
 
 3. Hold down the ***Sync*** button on your *Wii Fit Balance Board* located in the battery bay and *try not to let go*
 
-![Sync](img/sync.jpg "Sync button")
+![Sync](img/sync.jpg "Sync button" =250x)
 
   * The window will briefly stop responding, this is normal
 
