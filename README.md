@@ -36,7 +36,7 @@ Download Wii Balance Board GUI from the [releases](https://github.com/TheOneTrue
   
 5. *WBBGUI* will now hide in the system tray (it may be hidden under the ^ button)
 
-![System Tray](img/system tray.jpg "Syetem Tray")
+![System Tray](img/system%20tray.jpg "Syetem Tray")
 
 6. Right click the icon in the system tray and click ***Show***
 *  Here you can see the debug information and keymappings
