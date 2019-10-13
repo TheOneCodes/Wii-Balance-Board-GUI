@@ -29,6 +29,6 @@ Download Wii Balance Board GUI from the [releases](https://github.com/TheOneTrue
 ..2. Select the *Wii Fit Balance Board* and click ***Next***
 ..3. *Leave the password blank* and click next
 ..4. Go to *step 4*
-5. Click ***Center Balance***
-6. Test the ***W A S D*** and ***space*** actions
+* *WBBGUI* will now hide in the system tray (it may be hidden under the ^ button)
+5. Test the ***W A S D*** and ***space*** actions
 
